@@ -8,7 +8,7 @@ export const Container = styled.div`
   justify-content: space-between;
   align-items: center;
   padding: 0 10px 0 16px;
-  box-shadow: rba(0, 0, 0, 0.2) 0px 1px 0px 0px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 0px 0px;
   z-index: 2;
 `;
 export const Title = styled.h1`
