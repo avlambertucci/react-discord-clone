@@ -8,7 +8,6 @@ export const Container = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-
   padding: 5px 3px;
   border-radius: 5px;
   background-color: transparent;
