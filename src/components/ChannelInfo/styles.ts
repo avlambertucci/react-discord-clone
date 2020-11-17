@@ -7,8 +7,10 @@ export const ChannelInfoContainer = styled.div`
   align-items: center;
   padding: 0 17px;
   background-color: var(--primary);
-  box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 0px 0px;
-  z-index: 2;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 0px 0px;
+  z-index: 3;
+  border-bottom: none;
+
 
 `;
 export const HashtagIcon = styled(Hashtag)`
